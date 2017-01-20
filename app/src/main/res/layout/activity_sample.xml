@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/brb"
+   >
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="FROM"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="left"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#FFFFFF"
+        android:background="#0073e5"/>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:text="UNTILL"
+        android:layout_gravity="center"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="125dp"
+        android:textSize="25dp"
+        android:layout_alignParentBottom="true"
+
+        android:textColor="#FFFFFF"
+        android:background="#0073e5"
+        android:elevation="16dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        />
+
+
+</LinearLayout>
