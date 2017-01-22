@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">4 wheels</string>
     <string name="action_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="str_atv_places">Enter Place Here</string>
+
 </resources>

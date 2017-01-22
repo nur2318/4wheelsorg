@@ -16,6 +16,10 @@
         "source": "C:\\Users\\imran\\AndroidStudioProjects\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\custom_tab.xml"
     },
     {
+        "merged": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_date.xml",
+        "source": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\fragment_date.xml"
+    },
+    {
         "merged": "C:\\Users\\imran\\AndroidStudioProjects\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
         "source": "C:\\Users\\imran\\AndroidStudioProjects\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\slide_date_time_picker.xml"
     },
@@ -24,8 +28,20 @@
         "source": "C:\\Users\\imran\\Documents\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\custom_tab.xml"
     },
     {
+        "merged": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_tab.xml",
+        "source": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\custom_tab.xml"
+    },
+    {
         "merged": "C:\\Users\\imran\\Documents\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
         "source": "C:\\Users\\imran\\Documents\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\fragment_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\slide_date_time_picker.xml",
+        "source": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\slide_date_time_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_time.xml",
+        "source": "C:\\Users\\imran\\Documents\\GitHub\\4wheelsorg\\slideDateTimePicker\\src\\main\\res\\layout\\fragment_time.xml"
     },
     {
         "merged": "C:\\Users\\imran\\Documents\\4wheelsorg\\slideDateTimePicker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_date.xml",

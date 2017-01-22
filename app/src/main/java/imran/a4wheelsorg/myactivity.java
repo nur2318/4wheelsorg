@@ -60,6 +60,8 @@ public class myactivity extends AppCompatActivity {
            @Override
             public void onClick(View v){
 
+               Intent myintend=new Intent(v.getContext(), SecondActivity.class);
+               startActivityForResult(myintend,0);
 
             ren.start();
             }

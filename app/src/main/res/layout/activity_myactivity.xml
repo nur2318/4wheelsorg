@@ -12,7 +12,7 @@
     android:fitsSystemWindows="true"
 
 
-    tools:context="imran.a4wheels.myactivity"
+    tools:context="imran.a4wheelsorg.myactivity"
 
 
     android:theme="@style/Theme.AppCompat.NoActionBar"
